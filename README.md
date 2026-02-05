@@ -42,7 +42,7 @@ You can easily deploy this bot on **Railway**, **Zeabur**, or **Render**.
 
 1. **Fork this repository**.
 2. Click the **Deploy on Railway** button above.
-3. Set the required [Environment Variables](#-configuration).
+3. Set the required [Environment Variables](#configuration).
 4. Connect a MySQL service (Railway provides this with one click).
 
 ### Option 2: Docker (Self-Hosted)
