@@ -1,0 +1,3 @@
+from .admin_support_handler import register_admin_support_handlers
+from .statistic_handler import register_admin_statisctic_handlers
+from .tools_handler import register_admin_tools_handlers

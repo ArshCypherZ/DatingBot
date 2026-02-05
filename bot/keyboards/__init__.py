@@ -1,0 +1,15 @@
+from .inline import (
+    KB_CHANGE_QUESTIONNAIRE_MENU,
+    KB_CHOOSE_YES_OR_NOT,
+    KB_CONTINUE_REGISTRATION,
+    KB_FILTERS_MENU,
+    KB_GENDER_IDENTITY,
+    KB_GENDER_SELECTION,
+    KB_MENU,
+    KB_QUESTIONNAIRE_MENU,
+    KB_QUESTIONNAIRE_REVIEW,
+    KB_SUPPORT_MENU_USER,
+    KB_SUPPORT_MENU_USER_END,
+)
+from .reply import KB_END_CHAT, KB_GET_LOCATION, KB_GET_PHONE_NUMBER
+from .util import get_help_keyboard, get_questionnaire_answear_keyboard
